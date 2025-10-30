@@ -1,0 +1,51 @@
+product_id,product_name,sales,clicks,price,category,views,click_increase_percent,status
+1,Smartphone,120,300,899.99,Electronics,15420,95,Hot
+2,Headphones,80,200,199.99,Audio,12340,87,Hot
+3,Laptop,150,400,1299.99,Computers,18900,92,Hot
+4,Smartwatch,90,180,299.99,Wearables,8960,68,Trending
+5,Tablet,60,140,499.99,Electronics,7420,72,Regular
+6,Camera,110,250,799.99,Photography,11200,85,Trending
+7,Speaker,70,160,149.99,Audio,6800,65,Regular
+8,Keyboard,40,100,89.99,Accessories,4200,45,Regular
+9,Mouse,50,120,59.99,Accessories,5100,52,Regular
+10,Monitor,95,220,399.99,Displays,9800,78,Trending
+11,Drone,130,260,599.99,Electronics,13200,88,Hot
+12,VR Headset,85,190,399.99,Gaming,8700,75,Trending
+13,Gaming Console,180,420,499.99,Gaming,19600,94,Hot
+14,Router,55,130,129.99,Networking,5600,58,Regular
+15,SSD,140,310,199.99,Storage,14200,89,Hot
+16,Power Bank,75,170,49.99,Accessories,7600,70,Regular
+17,Wireless Charger,65,150,39.99,Accessories,6600,68,Regular
+18,Action Cam,115,270,299.99,Photography,11700,82,Trending
+19,Tripod,45,110,79.99,Photography,4600,48,Regular
+20,Microphone,100,230,199.99,Audio,10200,79,Trending
+21,Webcam,90,210,149.99,Accessories,9200,76,Trending
+22,Projector,125,280,899.99,Displays,12800,86,Hot
+23,Smart Bulb,70,160,24.99,Smart Home,7100,69,Regular
+24,Smart Plug,60,140,19.99,Smart Home,6100,64,Regular
+25,E-reader,105,240,179.99,Electronics,10700,81,Trending
+26,Graphics Tablet,95,200,299.99,Accessories,9700,77,Trending
+27,NAS,135,290,399.99,Storage,13800,90,Hot
+28,Bluetooth Tracker,50,120,29.99,Accessories,5100,53,Regular
+29,Fitness Band,85,195,99.99,Wearables,8700,74,Trending
+30,Noise Cancelling Earbuds,150,360,249.99,Audio,15300,91,Hot
+31,Mechanical Keyboard,98,205,159.99,Accessories,10000,80,Trending
+32,Gaming Mouse,92,198,89.99,Gaming,9400,77,Trending
+33,4K TV,170,390,1299.99,Displays,17400,93,Hot
+34,Mini PC,110,245,599.99,Computers,11200,83,Trending
+35,Smart Doorbell,88,185,199.99,Smart Home,9000,75,Trending
+36,Security Camera,125,275,149.99,Smart Home,12800,87,Hot
+37,Home Hub,90,210,99.99,Smart Home,9200,78,Trending
+38,Air Purifier,115,255,299.99,Appliances,11700,84,Trending
+39,Coffee Maker,80,180,199.99,Appliances,8200,72,Regular
+40,Electric Kettle,70,165,79.99,Appliances,7100,69,Regular
+41,Robot Vacuum,145,320,599.99,Appliances,14800,89,Hot
+42,Induction Cooktop,78,170,399.99,Appliances,7900,71,Regular
+43,Blender,68,150,149.99,Appliances,6900,67,Regular
+44,Toaster,55,130,89.99,Appliances,5600,59,Regular
+45,WiFi Extender,72,160,79.99,Networking,7300,70,Regular
+46,Dash Cam,112,248,199.99,Electronics,11400,85,Trending
+47,Car Charger,58,135,39.99,Accessories,5900,61,Regular
+48,Portable Monitor,118,260,299.99,Displays,12000,86,Hot
+49,Smart Thermostat,132,300,249.99,Smart Home,13500,88,Hot
+50,Portable Speaker,96,210,129.99,Audio,9800,79,Trending
